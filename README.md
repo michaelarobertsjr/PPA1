@@ -2,7 +2,7 @@
 
 Setup and Execution Instructions:
 - Tools Used:
-    -  Python 3.7.4 - python.org/downloads/release/python-374/
+    -  Python 3.7.4 - https://www.python.org/downloads/release/python-374/
     -  Pytest - https://pytest.org/en/latest/
     -  Windows 10
 - Setup:
